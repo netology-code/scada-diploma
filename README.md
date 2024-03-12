@@ -24,9 +24,9 @@
 
 **Часть 1**
 
-1. Скачайте [MasterOPC](https://insat.ru/products/?category=1666) по [инструкции](https://docs.google.com/document/d/1p2pCKMlsai_MQLCQ-YFPx5hGI2qmQiq1Y85ScBBAWiA/edit), установите ПО.
+1. Скачайте [MasterOPC](https://insat.ru/products/?category=1666) по [инструкции](https://u.netology.ru/backend/uploads/lms/content_assets/file/3224/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5_%D0%9F%D0%9E_MasterOPC.docx), установите ПО.
 2. Создайте OPC-сервер для работы с оборудованием по протоколу Modbus TCP (порты можно использовать любые доступные), добавьте устройства и теги, необходимые для работы SCADA.
-3. Скачайте [MasterSCADA 4D](https://masterscada.ru/download4) по [инструкции](https://docs.google.com/document/d/1cnale9fGt4FF-NWyM5-DP6VoGvQ57Jsb-k6pZAz1LeY/edit), установите ПО.
+3. Скачайте [MasterSCADA 4D](https://masterscada.ru/download4) по [инструкции](https://u.netology.ru/backend/uploads/lms/content_assets/file/3225/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5_%D0%9F%D0%9E_MastersSCADA_4D.docx), установите ПО.
 4. Создайте новый проект MasterSCADA 4D — имя проекта должно содержать название курсовой работы и вашу фамилию.
 5. Подключите проект MasterSCADA к проекту MasterOPC, тип OPC выберите на своё усмотрение.
 6. Создайте проект для Трансформаторной подстанции 1000В–400В. В состав подстанции должны быть включены элементы — **силовая часть 1000В и 400В.** Они расположены в разных шкафах, в каждом шкафу установлен датчик температуры и кондиционер. Силовые части 1000В и 400В нужно располагать на разных окнах.
